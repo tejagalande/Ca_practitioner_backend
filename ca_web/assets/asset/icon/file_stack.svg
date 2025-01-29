@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="file_stack" transform="translate(-0.151 -0.151)">
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="30" height="30" transform="translate(0.151 0.151)" fill="none"/>
+    <path id="Path_38" data-name="Path 38" d="M47.208,168.128l-10.892,6.354-10.892-6.354a.947.947,0,0,0-.955,1.637L35.838,176.4a.947.947,0,0,0,.955,0l11.369-6.632a.947.947,0,0,0-.955-1.637Z" transform="translate(-21.156 -148.102)"/>
+    <path id="Path_39" data-name="Path 39" d="M47.208,120.128l-10.892,6.354-10.892-6.354a.947.947,0,1,0-.955,1.637L35.838,128.4a.947.947,0,0,0,.955,0l11.369-6.632a.947.947,0,1,0-.955-1.637Z" transform="translate(-21.156 -105.787)"/>
+    <path id="Path_40" data-name="Path 40" d="M24.47,24.4,35.839,31.03a.948.948,0,0,0,.955,0L48.164,24.4a.947.947,0,0,0,0-1.637L36.794,16.129a.948.948,0,0,0-.955,0L24.47,22.761a.947.947,0,0,0,0,1.637Z" transform="translate(-21.158 -14.105)"/>
+  </g>
+</svg>
